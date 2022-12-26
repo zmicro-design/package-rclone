@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export PACKAGE_CORE_NAME="rclone"
+export PACKAGE_CORE_VERSION=v1.61.1
+export PACKAGE_CORE_RELEASE_DOWNLOAD="https://github.com/rclone/rclone/releases/download"
